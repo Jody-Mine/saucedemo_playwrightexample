@@ -1,0 +1,1 @@
+Known defect: error_user cannot remove item from cart.

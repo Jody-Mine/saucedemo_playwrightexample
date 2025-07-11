@@ -1,0 +1,1 @@
+Problem user checkout has known issues, which is expected behavior for this user type

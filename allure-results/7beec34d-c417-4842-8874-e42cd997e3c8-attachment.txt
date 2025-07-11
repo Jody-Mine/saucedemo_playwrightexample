@@ -1,0 +1,1 @@
+Known defect: visual_user cart icon is not misaligned (no Y difference detected).

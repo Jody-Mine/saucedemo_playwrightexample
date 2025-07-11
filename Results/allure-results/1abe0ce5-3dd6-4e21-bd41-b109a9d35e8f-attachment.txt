@@ -1,0 +1,1 @@
+Known defect: performance_glitch_user login took 5246ms (>2s)

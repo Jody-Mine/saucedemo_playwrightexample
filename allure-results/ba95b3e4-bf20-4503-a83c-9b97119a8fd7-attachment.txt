@@ -1,0 +1,3 @@
+Test.allTheThings() T-Shirt (Red) is already in cart
+Sauce Labs Onesie is already in cart
+Sauce Labs Fleece Jacket is already in cart

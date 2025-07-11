@@ -1,0 +1,31 @@
+{
+  "name": "newtry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:ui": "playwright test --ui",
+    "test:login": "playwright test tests/login.spec.ts",
+    "test:inventory": "playwright test tests/inventory.spec.ts",
+    "test:cart": "playwright test tests/cart.spec.ts",
+    "test:checkout": "playwright test tests/checkout.spec.ts",
+    "test:e2e": "playwright test tests/e2e.spec.ts",
+    "test:report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "@cucumber/pretty-formatter": "^1.0.1",
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.12",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.3.0",
+    "ts-node": "^10.9.2"
+  }
+}
