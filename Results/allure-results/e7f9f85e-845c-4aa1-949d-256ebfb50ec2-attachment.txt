@@ -1,6 +1,0 @@
-Sauce Labs Backpack is already in cart, skipping add action
-Sauce Labs Bike Light is already in cart, skipping add action
-Sauce Labs Bolt T-Shirt is already in cart, skipping add action
-Sauce Labs Fleece Jacket is already in cart, skipping add action
-Sauce Labs Onesie is already in cart, skipping add action
-Test.allTheThings() T-Shirt (Red) is already in cart, skipping add action

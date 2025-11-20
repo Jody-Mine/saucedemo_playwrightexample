@@ -1,0 +1,17 @@
+# Ignore macOS metadata
+.DS_Store
+
+# Node dependencies (were committed previously – remove with `git rm -r --cached node_modules` if desired)
+node_modules/
+
+# Playwright output & reports
+playwright-report/
+test-results/
+Results/
+
+# Allure results (generated artifacts)
+allure-results/
+
+# Logs and temp
+*.log
+tmp/

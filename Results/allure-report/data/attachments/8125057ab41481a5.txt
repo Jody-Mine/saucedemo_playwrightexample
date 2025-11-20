@@ -1,3 +1,0 @@
-Sauce Labs Backpack is already in cart, skipping add action
-Sauce Labs Bike Light is already in cart, skipping add action
-Test.allTheThings() T-Shirt (Red) is already in cart, skipping add action
